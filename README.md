@@ -1,0 +1,1 @@
+Import the games DB attached to this assignment. Then write a NodeJS program to display 3 games or as many as the user specifies but not exceeding 7.
